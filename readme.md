@@ -1,5 +1,5 @@
 
-# HUH? 
+# IDK! 
 
 *"Ig I’m doing something… but hell if I know what."*  
 
@@ -7,11 +7,11 @@
 
 ## Project Vision 🚀  
 
-The repo is literally called **HUH?** and the description is *“Ig I’m doing something.”*  
-That should tell you everything: this is a full-blown midlife crisis, except there’s no life yet to be in the middle of.  
+The repo is literally called **IDK?**  ...............*“Ig I’m doing something BUT don't know what!!.”*  
+
 
 Here’s the deal:  
-- I’m coding a **“SOMETHING”** that doesn’t exist.  
+- I’m coding a **“........”** that doesn’t exist.  
 - Don’t know why. Don’t know how. Probably won’t know even after it’s done.  
 - The end goal? *Will do something. Probably.*  
 
@@ -24,10 +24,10 @@ These "lines of code" will:
 
 ## Architecture (aka: I drew boxes so it looks serious)  
 
-**Repo Name:** HUH?  
+**Repo Name:** IDK! 
 **Description:** "Ig I’m doing something"  
 
-Translation: I have no clue what’s happening, but diagrams make it look important.  
+Translation: I have no clue what’s happening, but diagrams make it look something important.  
 
 ```text
 +-------------------------------------------------+
